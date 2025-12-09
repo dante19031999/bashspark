@@ -1,7 +1,0 @@
-<map id="/home/dante/Documents/BashSpark/include/BashSpark/tools/shell_hash.h" name="/home/dante/Documents/BashSpark/include/BashSpark/tools/shell_hash.h">
-<area shape="rect" id="Node000001" title="Defines the bs::shell_hash functor implementing a 64&#45;bit FNV&#45;1a hash." alt="" coords="5,5,224,60"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="39,108,105,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,61,86,97,82,94,99,59"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="129,108,188,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,59,149,94,144,97,126,61"/>
-</map>

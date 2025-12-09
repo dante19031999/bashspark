@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,77,144,102"/>
-<area shape="rect" id="Node000001" href="$classbs_1_1shell__node__break_1_1break__signal.html" title="Exception used internally to signal a loop &quot;break&quot;." alt="" coords="210,5,369,45"/>
-<area shape="poly" id="edge53_Node000000_Node000001" title=" " alt="" coords="131,70,221,43,222,48,132,75"/>
-<area shape="rect" id="Node000002" href="$classbs_1_1shell__node__continue_1_1continue__signal.html" title="Exception used internally to signal a loop &quot;continue&quot;." alt="" coords="200,69,379,109"/>
-<area shape="poly" id="edge54_Node000000_Node000002" title=" " alt="" coords="158,87,200,87,200,92,158,92"/>
-<area shape="rect" id="Node000003" href="$classbs_1_1shell__parser__exception.html" title="Exception class for handling shell&#45;specific errors." alt="" coords="192,134,387,159"/>
-<area shape="poly" id="edge55_Node000000_Node000003" title=" " alt="" coords="135,103,193,119,240,131,238,136,191,124,134,108"/>
-</map>

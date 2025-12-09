@@ -1,7 +1,0 @@
-<map id="/home/dante/Documents/BashSpark/include/BashSpark/tools/hash.h" name="/home/dante/Documents/BashSpark/include/BashSpark/tools/hash.h">
-<area shape="rect" id="Node000001" title="Implements FNV&#45;1a hash functions for strings." alt="" coords="98,5,317,60"/>
-<area shape="rect" id="Node000002" href="$command_8cpp.html" title="Implements class bs::command." alt="" coords="5,108,196,163"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,72,130,110,127,106,168,68"/>
-<area shape="rect" id="Node000003" href="$shell_8cpp.html" title="Implements the bs::shell interface and built&#45;in shell functionality." alt="" coords="220,108,411,163"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,68,289,106,285,110,244,72"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="/home/dante/Documents/BashSpark/include/BashSpark/command/command_fcall.h" name="/home/dante/Documents/BashSpark/include/BashSpark/command/command_fcall.h">
-<area shape="rect" id="Node000001" title="Defines command bs::command_fcall." alt="" coords="122,5,341,60"/>
-<area shape="rect" id="Node000002" href="$command__fcall_8cpp.html" title="Implements command bs::command_fcall." alt="" coords="5,108,228,163"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,71,148,110,145,106,189,67"/>
-<area shape="rect" id="Node000003" href="$shell_8cpp.html" title="Implements the bs::shell interface and built&#45;in shell functionality." alt="" coords="252,108,443,163"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,67,319,106,315,110,270,71"/>
-</map>
