@@ -88,6 +88,14 @@ namespace bs {
             : m_nPos(0), m_pData(pData), m_nSize(nSize) {
         }
 
+        /**
+         * @brief Constructs an input stream with string view.
+         * @param sText String view.
+         */
+        ALWAYS_INLINE basic_ifakestream(const std::string_view &sText)
+            : m_nPos(0), m_pData(sText.data()), m_nSize(sText.length()) {
+        }
+
         // Deleted copy and move constructors and assignment operators.
         basic_ifakestream(const basic_ifakestream &) = delete;
 
