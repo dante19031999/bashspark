@@ -52,6 +52,7 @@ namespace bs {
         const auto pCommand = oSession.get_shell()->get_command(vTokens[0]);
         if (pCommand == nullptr) {
             pShell->msg_error_command_not_found(oSession, vTokens[0]);
+            oSession.set_last_command_result(shell_status::SHELL_ERROR_COMMAND_NOT_FOUND);
             return shell_status::SHELL_ERROR_COMMAND_NOT_FOUND;
         }
 
@@ -65,6 +66,7 @@ namespace bs {
         } catch (shell_parser_exception &oException) {
             // Normalize syntax errors
             oSession.get_shell()->msg_error_syntax_error(oSession, oException);
+            nStatus = oException.get_status();
         }
 
         // Establish result
