@@ -311,7 +311,7 @@ namespace bs {
          */
         ALWAYS_INLINE void write(const char_type *const pData, const std::size_t nLength) {
             if (m_nPos + nLength >= m_nSize) realloc(m_nPos + nLength);
-            std::memcpy(this->m_pData + this->m_nPos, pData, nLength);
+            std::memcpy(this->m_pData + this->m_nPos, pData, nLength * sizeof(char_type));
             this->m_nPos += nLength;
         }
 
@@ -345,7 +345,7 @@ namespace bs {
         ALWAYS_INLINE void operator<<(const std::basic_string<char_type> &sString) {
             const std::size_t nLength = sString.length();
             if (m_nPos + nLength >= m_nSize) realloc(m_nPos + nLength);
-            std::memcpy(this->m_pData + this->m_nPos, sString.data(), nLength);
+            std::memcpy(this->m_pData + this->m_nPos, sString.data(), nLength * sizeof(char_type));
             this->m_nPos += nLength;
         }
 
