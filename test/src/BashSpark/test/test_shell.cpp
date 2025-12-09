@@ -200,7 +200,7 @@ namespace bs::debug {
         assert(res3 == shell_status::SHELL_SUCCESS);
         assert(oStdOut.str()=="value");
 
-        // Wrong setenv
+        // Wrong getenv
         shell_status res4 = shell::run("getenv 1234"sv, oSession);
         assert(res4 == shell_status::SHELL_CMD_ERROR_GETENV_VARIABLE_NAME_INVALID);
     }
@@ -211,21 +211,21 @@ namespace bs::debug {
         std::ostringstream oStdErr;
         shell_session oSession(m_pShell.get(), oStdIn, oStdOut, oStdErr);
 
-        // Normal setenv
+        // Normal setvar
         shell_status res1 = shell::run("setvar variable value"sv, oSession);
         assert(res1 == shell_status::SHELL_SUCCESS);
         assert(oSession.get_var("variable")=="value");
 
-        // Wrong setenv
-        shell_status res2 = shell::run("setenv 1234 value"sv, oSession);
-        assert(res2 == shell_status::SHELL_CMD_ERROR_SETENV_VARIABLE_NAME_INVALID);
+        // Wrong setvar
+        shell_status res2 = shell::run("setvar 1234 value"sv, oSession);
+        assert(res2 == shell_status::SHELL_CMD_ERROR_SETVAR_VARIABLE_NAME_INVALID);
 
         // Normal getvar
         shell_status res3 = shell::run("getvar variable"sv, oSession);
         assert(res3 == shell_status::SHELL_SUCCESS);
         assert(oStdOut.str()=="value");
 
-        // Wrong setvar
+        // Wrong getvar
         shell_status res4 = shell::run("getvar 1234"sv, oSession);
         assert(res4 == shell_status::SHELL_CMD_ERROR_GETVAR_VARIABLE_NAME_INVALID);
     }
