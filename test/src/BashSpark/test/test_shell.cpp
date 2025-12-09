@@ -57,7 +57,6 @@ namespace bs::debug {
     }
 
     void test_shell::test() const {
-        /*
         this->test_basic();
         this->test_echo_basic();
         this->test_echo_envvar();
@@ -68,7 +67,6 @@ namespace bs::debug {
         this->test_structure();
         this->test_math();
         this->test_test();
-        */
         this->test_script();
         std::cout << "Tests finished" << std::endl;
     }
