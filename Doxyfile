@@ -1,0 +1,17 @@
+PROJECT_NAME           = "BashSpark"
+PROJECT_ICON           = @PROJECT_DIR@/resources/bs.svg
+PROJECT_LOGO           = @PROJECT_DIR@/resources/bs.svg
+OUTPUT_DIRECTORY       = @PROJECT_DIR@/docs
+INPUT                  = @PROJECT_DIR@/include @PROJECT_DIR@/src @PROJECT_DIR@/test @PROJECT_DIR@/mainpage.dox
+RECURSIVE              = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+MARKDOWN_SUPPORT       = YES
+
+# Doxygen Awesome
+GENERATE_TREEVIEW      = YES # required!
+DISABLE_INDEX          = NO
+FULL_SIDEBAR           = NO
+HTML_EXTRA_STYLESHEET  = @AWESOME_CSS_DIR@/doxygen-awesome.css
+HTML_COLORSTYLE        = LIGHT
+
