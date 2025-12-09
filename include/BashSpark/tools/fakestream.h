@@ -350,6 +350,17 @@ namespace bs {
         }
 
         /**
+         * @brief Writes a string view to the stream using the << operator.
+         * @param sString The string to write.
+         */
+        ALWAYS_INLINE void operator<<(const std::basic_string_view<char_type> &sString) {
+            const std::size_t nLength = sString.length();
+            if (m_nPos + nLength >= m_nSize) realloc(m_nPos + nLength);
+            std::memcpy(this->m_pData + this->m_nPos, sString.data(), nLength * sizeof(char_type));
+            this->m_nPos += nLength;
+        }
+
+        /**
          * @brief Gets a read-only view of the current state of the stream.
          * @return A string view of the data.
          */
