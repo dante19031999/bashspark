@@ -27,6 +27,8 @@ set(HEADERS
         include/BashSpark/shell/shell_parser_exception.h
         include/BashSpark/shell/shell_keyword.h
         include/BashSpark/shell/shell_node.h
+        include/BashSpark/shell/shell_node_visitor.h
+        include/BashSpark/shell/shell_node_visitor_json.h
         include/BashSpark/shell/shell_parser.h
         include/BashSpark/shell/shell_session.h
         include/BashSpark/shell/shell_status.h
@@ -38,12 +40,11 @@ set(HEADERS
         include/BashSpark/tools/shell_hash.h
         include/BashSpark/tools/utf.h
         include/BashSpark/command/command_env.h
-        include/BashSpark/command/command_var.h
+        include/BashSpark/command/command_fcall.h
+        include/BashSpark/command/command_math.h
         include/BashSpark/command/command_seq.h
         include/BashSpark/command/command_test.h
-        include/BashSpark/shell/shell_node_visitor.h
-        include/BashSpark/shell/shell_node_visitor_json.h
-        include/BashSpark/command/command_math.h
+        include/BashSpark/command/command_var.h
         include/BashSpark/tools/shell_def.h
 )
 
@@ -54,17 +55,17 @@ set(SOURCES
         src/BashSpark/shell/shell_node.cpp
         src/BashSpark/shell/shell_node_evaluate.cpp
         src/BashSpark/shell/shell_node_expand.cpp
+        src/BashSpark/shell/shell_node_visitor_json.cpp
         src/BashSpark/shell/shell_parser.cpp
         src/BashSpark/shell/shell_tokenizer.cpp
         src/BashSpark/shell/shell_tools.h
         src/BashSpark/shell/token_holder.h
         src/BashSpark/command/command_env.cpp
-        src/BashSpark/command/command_var.cpp
+        src/BashSpark/command/command_fcall.cpp
+        src/BashSpark/command/command_math.cpp
         src/BashSpark/command/command_seq.cpp
         src/BashSpark/command/command_test.cpp
-        src/BashSpark/shell/shell_node_visitor_json.cpp
-        src/BashSpark/command/command_math.cpp
-        src/BashSpark/command/command_fcall.cpp
+        src/BashSpark/command/command_var.cpp
 )
 
 set(TEST_HEADERS
