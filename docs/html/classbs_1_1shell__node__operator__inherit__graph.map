@@ -1,0 +1,13 @@
+<map id="bs::shell_node_operator" name="bs::shell_node_operator">
+<area shape="rect" id="Node000001" title="Base class for binary operator nodes (pipe, and, or) with priority handling." alt="" coords="155,152,333,177"/>
+<area shape="rect" id="Node000004" href="$classbs_1_1shell__node__and.html" title="Logical AND operator node (executes right only if left succeeded)." alt="" coords="5,225,152,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,185,107,228,105,223,204,180"/>
+<area shape="rect" id="Node000005" href="$classbs_1_1shell__node__or.html" title="Logical OR operator node (executes right only if left failed)." alt="" coords="177,225,311,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="247,191,247,225,241,225,241,191"/>
+<area shape="rect" id="Node000006" href="$classbs_1_1shell__node__pipe.html" title="Pipe operator node (connects stdout of left to stdin of right)." alt="" coords="335,225,486,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="284,180,384,223,382,228,282,185"/>
+<area shape="rect" id="Node000002" href="$classbs_1_1shell__node__evaluable.html" title="Base interface for nodes that can be evaluated (executed)." alt="" coords="151,79,337,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,118,247,152,241,152,241,118"/>
+<area shape="rect" id="Node000003" href="$classbs_1_1shell__node.html" title="Base class for all parser nodes." alt="" coords="187,5,301,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,44,247,79,241,79,241,44"/>
+</map>

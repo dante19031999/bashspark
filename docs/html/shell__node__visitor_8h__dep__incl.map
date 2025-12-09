@@ -1,0 +1,13 @@
+<map id="/home/dante/Documents/BashSpark/include/BashSpark/shell/shell_node_visitor.h" name="/home/dante/Documents/BashSpark/include/BashSpark/shell/shell_node_visitor.h">
+<area shape="rect" id="Node000001" title="Defines template bs::shell_node_visitor" alt="" coords="313,5,531,60"/>
+<area shape="rect" id="Node000002" href="$shell__node__visitor__json_8h.html" title="Defines class bs::shell_node_visitor_json" alt="" coords="309,108,535,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,74,425,108,419,108,419,74"/>
+<area shape="rect" id="Node000003" href="$shell_8cpp.html" title="Implements the bs::shell interface and built&#45;in shell functionality." alt="" coords="5,218,196,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,170,180,220,178,215,330,165"/>
+<area shape="rect" id="Node000004" href="$shell__node__visitor__json_8cpp.html" title="Implements class bs::shell_node_visitor_json" alt="" coords="220,211,411,280"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="388,175,351,212,347,209,384,171"/>
+<area shape="rect" id="Node000005" href="$shell__parser_8cpp.html" title="Implements class bs::shell_parser." alt="" coords="435,218,625,273"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="460,171,505,216,502,220,457,175"/>
+<area shape="rect" id="Node000006" href="$test__shell_8cpp.html" title="Implements a series of tests to check the overall compliance of the shell. Exhaustive testing would b..." alt="" coords="649,218,869,273"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="518,164,678,215,677,220,517,170"/>
+</map>

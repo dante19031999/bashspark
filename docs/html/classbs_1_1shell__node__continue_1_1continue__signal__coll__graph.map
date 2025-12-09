@@ -1,0 +1,5 @@
+<map id="bs::shell_node_continue::continue_signal" name="bs::shell_node_continue::continue_signal">
+<area shape="rect" id="Node000001" title="Exception used internally to signal a loop &quot;continue&quot;." alt="" coords="5,79,184,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,44,97,79,92,79,92,44"/>
+</map>

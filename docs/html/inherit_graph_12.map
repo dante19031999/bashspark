@@ -1,0 +1,73 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classbs_1_1shell__node.html" title="Base class for all parser nodes." alt="" coords="5,659,120,684"/>
+<area shape="rect" id="Node000001" href="$classbs_1_1shell__node__evaluable.html" title="Base interface for nodes that can be evaluated (executed)." alt="" coords="174,381,361,407"/>
+<area shape="poly" id="edge11_Node000000_Node000001" title=" " alt="" coords="79,646,254,406,258,409,84,649"/>
+<area shape="rect" id="Node000019" href="$classbs_1_1shell__node__expandable.html" title="Base interface for nodes that expand to tokens (strings)." alt="" coords="168,907,367,932"/>
+<area shape="poly" id="edge29_Node000000_Node000019" title=" " alt="" coords="85,693,258,905,253,908,81,696"/>
+<area shape="rect" id="Node000002" href="$classbs_1_1shell__node__background.html" title="Evaluates a subcommand in background semantics (implementation&#45;specific)." alt="" coords="415,5,613,31"/>
+<area shape="poly" id="edge12_Node000001_Node000002" title=" " alt="" coords="269,367,280,301,305,212,324,165,348,119,377,77,413,40,431,28,434,33,416,44,381,80,352,122,329,168,310,214,286,302,274,368"/>
+<area shape="rect" id="Node000003" href="$classbs_1_1shell__node__break.html" title="Represents a break statement inside a loop." alt="" coords="435,55,593,80"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="271,367,285,309,312,234,331,194,354,156,381,120,413,89,433,77,436,82,416,93,385,124,358,159,336,197,317,236,290,311,276,369"/>
+<area shape="rect" id="Node000004" href="$classbs_1_1shell__node__command.html" title="Wraps a command expression and executes it as a command." alt="" coords="421,104,607,129"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="274,367,291,318,320,257,360,194,385,165,413,140,436,127,439,132,416,144,389,169,364,197,325,259,296,320,279,369"/>
+<area shape="rect" id="Node000005" href="$classbs_1_1shell__node__command__block.html" title="A sequence of evaluable nodes executed in order (a block)." alt="" coords="421,154,607,194"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="279,367,301,331,331,287,369,242,413,204,434,192,437,196,416,208,372,246,335,290,305,334,284,370"/>
+<area shape="rect" id="Node000006" href="$classbs_1_1shell__node__command__block__subshell.html" title="Command block executed in a subshell (may isolate environment changes)." alt="" coords="421,218,607,258"/>
+<area shape="poly" id="edge16_Node000001_Node000006" title=" " alt="" coords="288,369,342,319,376,292,413,268,439,256,441,261,416,272,379,296,345,323,292,373"/>
+<area shape="rect" id="Node000007" href="$classbs_1_1shell__node__continue.html" title="Represents a continue statement inside a loop." alt="" coords="425,283,603,308"/>
+<area shape="poly" id="edge17_Node000001_Node000007" title=" " alt="" coords="300,372,353,344,414,317,451,305,452,311,416,322,355,349,303,377"/>
+<area shape="rect" id="Node000008" href="$classbs_1_1shell__node__for.html" title="Iterative &#39;for&#39; loop node that iterates over an expandable sequence." alt="" coords="444,332,584,357"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="344,376,449,355,450,360,345,381"/>
+<area shape="rect" id="Node000009" href="$classbs_1_1shell__node__function.html" title="Create function and adds to the shell session." alt="" coords="427,381,601,407"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="375,391,426,391,426,397,375,397"/>
+<area shape="rect" id="Node000010" href="$classbs_1_1shell__node__if.html" title="Conditional execution node (if&#45;then&#45;else)." alt="" coords="449,431,579,456"/>
+<area shape="poly" id="edge20_Node000001_Node000010" title=" " alt="" coords="345,407,450,428,449,433,344,412"/>
+<area shape="rect" id="Node000011" href="$classbs_1_1shell__node__null__command.html" title="Represents a no&#45;op command node (useful as placeholder)." alt="" coords="441,481,587,521"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="305,411,416,465,450,478,449,483,414,470,302,416"/>
+<area shape="rect" id="Node000012" href="$classbs_1_1shell__node__operator.html" title="Base class for binary operator nodes (pipe, and, or) with priority handling." alt="" coords="425,545,603,571"/>
+<area shape="poly" id="edge22_Node000001_Node000012" title=" " alt="" coords="289,416,342,474,377,504,416,530,446,543,443,548,413,535,374,509,338,478,285,419"/>
+<area shape="rect" id="Node000016" href="$classbs_1_1shell__node__test.html" title="Node that evaluates an expandable expression as a test/condition." alt="" coords="441,595,587,620"/>
+<area shape="poly" id="edge26_Node000001_Node000016" title=" " alt="" coords="283,418,304,454,334,498,372,543,416,580,442,592,440,597,413,584,368,546,330,502,300,457,279,420"/>
+<area shape="rect" id="Node000017" href="$classbs_1_1shell__node__until.html" title="&#39;Until&#39; loop node that executes the iterative block until the condition succeeds." alt="" coords="439,644,589,669"/>
+<area shape="poly" id="edge27_Node000001_Node000017" title=" " alt="" coords="280,419,298,465,327,522,366,580,390,606,416,629,440,642,437,647,413,634,386,610,362,583,322,525,293,467,275,421"/>
+<area shape="rect" id="Node000018" href="$classbs_1_1shell__node__while.html" title="While&#45;loop node executing the iterative block while the condition succeeds." alt="" coords="435,693,593,719"/>
+<area shape="poly" id="edge28_Node000001_Node000018" title=" " alt="" coords="277,420,293,475,320,545,338,582,360,617,386,650,416,679,438,691,435,696,413,683,382,654,356,620,334,584,315,547,287,476,272,421"/>
+<area shape="rect" id="Node000013" href="$classbs_1_1shell__node__and.html" title="Logical AND operator node (executes right only if left succeeded)." alt="" coords="681,496,828,521"/>
+<area shape="poly" id="edge23_Node000012_Node000013" title=" " alt="" coords="589,540,691,519,692,524,590,545"/>
+<area shape="rect" id="Node000014" href="$classbs_1_1shell__node__or.html" title="Logical OR operator node (executes right only if left failed)." alt="" coords="687,545,822,571"/>
+<area shape="poly" id="edge24_Node000012_Node000014" title=" " alt="" coords="616,555,687,555,687,561,616,561"/>
+<area shape="rect" id="Node000015" href="$classbs_1_1shell__node__pipe.html" title="Pipe operator node (connects stdout of left to stdin of right)." alt="" coords="679,595,830,620"/>
+<area shape="poly" id="edge25_Node000012_Node000015" title=" " alt="" coords="590,571,692,592,691,597,589,576"/>
+<area shape="rect" id="Node000020" href="$classbs_1_1shell__node__command__expression.html" title="Represents a command expression composed of expandable children." alt="" coords="421,743,607,783"/>
+<area shape="poly" id="edge30_Node000019_Node000020" title=" " alt="" coords="288,895,342,844,376,817,413,793,439,781,441,786,416,798,379,821,345,848,292,899"/>
+<area shape="rect" id="Node000021" href="$classbs_1_1shell__node__dollar__command.html" title="Command&#45;substitution node used in $() or backticks when appearing inside other contexts." alt="" coords="435,807,593,847"/>
+<area shape="poly" id="edge31_Node000019_Node000021" title=" " alt="" coords="310,899,414,857,448,845,450,850,416,862,312,904"/>
+<area shape="rect" id="Node000022" href="$classbs_1_1shell__node__session__extractor.html" title="Base for nodes that extract values from the session (args/vars/etc.)." alt="" coords="429,871,599,911"/>
+<area shape="poly" id="edge32_Node000019_Node000022" title=" " alt="" coords="380,904,428,898,429,904,381,909"/>
+<area shape="rect" id="Node000030" href="$classbs_1_1shell__node__str.html" title="Base for string&#45;like nodes composed of expandable fragments." alt="" coords="445,936,583,961"/>
+<area shape="poly" id="edge40_Node000019_Node000030" title=" " alt="" coords="381,930,445,938,444,943,380,935"/>
+<area shape="rect" id="Node000033" href="$classbs_1_1shell__node__str__back.html" title="Command&#45;substitution string node (backticks or $(...))." alt="" coords="425,985,603,1011"/>
+<area shape="poly" id="edge43_Node000019_Node000033" title=" " alt="" coords="314,934,415,970,460,983,459,988,414,975,312,939"/>
+<area shape="rect" id="Node000034" href="$classbs_1_1shell__node__unicode.html" title="A single Unicode codepoint node." alt="" coords="427,1035,601,1060"/>
+<area shape="poly" id="edge44_Node000019_Node000034" title=" " alt="" coords="295,939,348,980,416,1020,450,1032,448,1037,414,1024,345,984,292,943"/>
+<area shape="rect" id="Node000035" href="$classbs_1_1shell__node__word.html" title="A plain word token node." alt="" coords="437,1084,591,1109"/>
+<area shape="poly" id="edge45_Node000019_Node000035" title=" " alt="" coords="287,942,339,1007,375,1041,416,1070,441,1081,439,1086,413,1075,372,1045,336,1010,283,945"/>
+<area shape="rect" id="Node000023" href="$classbs_1_1shell__node__arg.html" title="Extract positional argument from the session (e.g. $1, $2)." alt="" coords="683,644,826,669"/>
+<area shape="poly" id="edge33_Node000022_Node000023" title=" " alt="" coords="608,861,611,858,627,836,634,814,634,769,635,724,642,701,660,679,682,664,685,669,663,683,647,704,640,725,639,769,639,815,632,838,615,861,611,865"/>
+<area shape="rect" id="Node000024" href="$classbs_1_1shell__node__dollar__arg.html" title="Extract an argument referenced with a leading $ (e.g. $@, $* or $1)." alt="" coords="661,693,848,719"/>
+<area shape="poly" id="edge34_Node000022_Node000024" title=" " alt="" coords="607,861,611,857,624,842,630,827,634,795,639,762,646,745,660,729,679,717,682,721,663,733,650,748,644,763,640,795,636,828,628,845,615,861,610,865"/>
+<area shape="rect" id="Node000025" href="$classbs_1_1shell__node__dollar__arg__dhop.html" title="Dollar&#45;argument with &quot;double&#45;hop&quot; semantics (implementation&#45;specific)." alt="" coords="675,743,834,783"/>
+<area shape="poly" id="edge35_Node000022_Node000025" title=" " alt="" coords="603,863,612,857,627,842,635,826,644,810,660,793,681,781,683,786,663,797,648,813,640,829,631,845,615,861,606,867"/>
+<area shape="rect" id="Node000026" href="$classbs_1_1shell__node__dollar__special.html" title="Special dollar items such as $?, $#, $$, etc. (implementation&#45;specific)." alt="" coords="675,807,834,847"/>
+<area shape="poly" id="edge36_Node000022_Node000026" title=" " alt="" coords="602,865,678,845,680,850,604,870"/>
+<area shape="rect" id="Node000027" href="$classbs_1_1shell__node__dollar__variable.html" title="Dollar&#45;prefixed variable node (may have different semantics)." alt="" coords="675,871,834,911"/>
+<area shape="poly" id="edge37_Node000022_Node000027" title=" " alt="" coords="613,889,675,889,675,894,613,894"/>
+<area shape="rect" id="Node000028" href="$classbs_1_1shell__node__dollar__variable__dhop.html" title="Dollar&#45;variable with double&#45;hop lookup semantics." alt="" coords="675,935,834,975"/>
+<area shape="poly" id="edge38_Node000022_Node000028" title=" " alt="" coords="604,912,680,933,678,938,602,918"/>
+<area shape="rect" id="Node000029" href="$classbs_1_1shell__node__variable.html" title="Extract a named shell variable from the session environment." alt="" coords="667,1000,842,1025"/>
+<area shape="poly" id="edge39_Node000022_Node000029" title=" " alt="" coords="606,915,615,921,631,938,640,954,648,970,663,985,687,997,685,1002,660,990,643,973,635,957,627,941,612,925,603,920"/>
+<area shape="rect" id="Node000031" href="$classbs_1_1shell__node__str__double.html" title="Double&#45;quoted string node." alt="" coords="685,1050,824,1090"/>
+<area shape="poly" id="edge41_Node000030_Node000031" title=" " alt="" coords="598,961,615,971,631,986,640,1003,648,1019,663,1035,687,1048,684,1053,660,1039,644,1022,635,1005,627,990,612,975,595,966"/>
+<area shape="rect" id="Node000032" href="$classbs_1_1shell__node__str__simple.html" title="Simple (unquoted) string node." alt="" coords="685,1114,824,1154"/>
+<area shape="poly" id="edge42_Node000030_Node000032" title=" " alt="" coords="597,959,615,971,629,987,637,1003,641,1036,644,1069,651,1084,663,1100,686,1116,684,1120,660,1104,646,1087,639,1070,635,1037,631,1005,624,990,612,975,594,963"/>
+</map>

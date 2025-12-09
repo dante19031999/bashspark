@@ -1,0 +1,43 @@
+<map id="/home/dante/Documents/BashSpark/src/BashSpark/shell/shell_tokenizer.cpp" name="/home/dante/Documents/BashSpark/src/BashSpark/shell/shell_tokenizer.cpp">
+<area shape="rect" id="Node000001" title="Implements class bs::shell_tokenizer." alt="" coords="409,5,600,60"/>
+<area shape="rect" id="Node000002" href="$shell__tokenizer_8h.html" title="Defines class bs::shell_tokenizer." alt="" coords="239,108,400,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,62,370,104,368,99,451,58"/>
+<area shape="rect" id="Node000012" href="$utf_8h.html" title="Provides simple tools for utf string manipulation." alt="" coords="685,115,845,141"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="579,58,721,108,719,113,577,63"/>
+<area shape="rect" id="Node000017" href="$shell__parser__exception_8h.html" title="Defines class shell_exception." alt="" coords="424,108,585,148"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="507,60,507,94,502,94,502,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="169,203,232,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,150,229,197,226,193,291,146"/>
+<area shape="rect" id="Node000004" href="$fakestream_8h.html" title="Generic input and output stream classes with character types." alt="" coords="256,203,473,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="332,147,354,189,350,192,327,150"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="201,284,262,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="346,231,264,279,261,275,344,227"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="287,284,352,309"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="360,230,335,273,331,271,356,228"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="377,284,443,309"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="374,228,399,271,394,273,369,230"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="468,284,541,309"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="387,227,473,275,471,280,384,231"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="566,284,625,309"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="399,226,554,278,552,283,397,231"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="5,284,103,309"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="320,231,113,283,112,278,319,226"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="127,284,176,309"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="335,231,190,284,188,279,333,226"/>
+<area shape="poly" id="edge16_Node000012_Node000004" title=" " alt="" coords="712,143,432,203,430,198,711,138"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="683,203,758,229"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="761,142,735,192,731,190,756,140"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="782,203,841,229"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="773,140,801,190,796,192,769,142"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="865,203,931,229"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="784,139,870,193,867,198,781,143"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="842,284,922,309"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="846,136,873,144,901,156,925,173,946,195,952,215,946,237,932,259,913,277,909,273,927,256,941,235,947,215,941,197,922,177,898,161,872,149,844,141"/>
+<area shape="poly" id="edge18_Node000017_Node000003" title=" " alt="" coords="424,149,337,171,244,199,238,201,237,196,242,193,335,165,423,144"/>
+<area shape="poly" id="edge22_Node000017_Node000004" title=" " alt="" coords="475,150,397,198,394,194,473,146"/>
+<area shape="rect" id="Node000018" href="$shell__status_8h.html" title="Defines status codes for the shell." alt="" coords="497,196,659,236"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="523,147,555,184,551,187,519,150"/>
+<area shape="poly" id="edge21_Node000018_Node000016" title=" " alt="" coords="651,233,829,279,828,284,650,239"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="649,284,731,309"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="607,234,664,274,661,278,604,238"/>
+</map>

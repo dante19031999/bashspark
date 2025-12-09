@@ -1,0 +1,5 @@
+<map id="bs::basic_nullbuffer&lt; char_t, traits_t &gt;" name="bs::basic_nullbuffer&lt; char_t, traits_t &gt;">
+<area shape="rect" id="Node000001" title="A null stream buffer that ignores all input and output." alt="" coords="11,93,159,133"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,59,87,93,82,93,82,59"/>
+</map>

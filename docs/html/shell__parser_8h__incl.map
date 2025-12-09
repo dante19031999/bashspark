@@ -1,0 +1,92 @@
+<map id="/home/dante/Documents/BashSpark/include/BashSpark/shell/shell_parser.h" name="/home/dante/Documents/BashSpark/include/BashSpark/shell/shell_parser.h">
+<area shape="rect" id="Node000001" title="Defines class bs::shell_parser." alt="" coords="650,5,868,60"/>
+<area shape="rect" id="Node000002" href="$shell__tokenizer_8h.html" title="Defines class bs::shell_tokenizer." alt="" coords="257,196,418,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="650,47,546,69,493,87,443,110,419,127,397,146,361,186,357,183,393,142,416,122,441,106,491,82,545,64,649,41"/>
+<area shape="rect" id="Node000004" href="$fakestream_8h.html" title="Generic input and output stream classes with character types." alt="" coords="229,291,446,317"/>
+<area shape="poly" id="edge56_Node000001_Node000004" title=" " alt="" coords="716,62,494,198,366,285,363,281,491,194,713,58"/>
+<area shape="rect" id="Node000012" href="$shell_8h.html" title="Defines the bs::shell interface and built&#45;in shell functionality." alt="" coords="910,115,1048,141"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="822,58,941,108,939,113,820,63"/>
+<area shape="rect" id="Node000022" href="$shell__node_8h.html" title="Defines the shell node hierarchy used by the parser." alt="" coords="746,467,850,493"/>
+<area shape="poly" id="edge53_Node000001_Node000022" title=" " alt="" coords="762,60,762,215,762,305,765,346,772,387,791,454,786,455,767,388,760,347,757,305,756,215,756,60"/>
+<area shape="rect" id="Node000033" href="$shell__keyword_8h.html" title="Defines enum bs::shell_keyword." alt="" coords="1504,108,1665,148"/>
+<area shape="poly" id="edge54_Node000001_Node000033" title=" " alt="" coords="869,44,1490,113,1490,119,868,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="476,555,538,581"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,235,163,261,114,278,71,299,36,322,14,349,9,363,9,378,13,394,23,410,52,436,98,461,156,483,221,503,355,536,463,557,462,562,354,541,220,508,154,488,96,466,49,441,18,414,8,396,3,378,4,362,10,346,33,318,68,294,112,273,161,256,256,230"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="340,236,340,277,335,277,335,236"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="204,379,266,405"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="326,319,261,372,258,368,322,315"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="290,379,356,405"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="338,317,330,366,325,365,333,316"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="380,379,447,405"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="350,315,396,367,392,370,346,319"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="33,379,106,405"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="298,319,119,375,112,377,110,372,117,369,296,314"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1420,555,1479,581"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="395,314,676,373,1048,457,1250,509,1408,552,1406,557,1248,514,1047,463,674,378,394,319"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="522,379,620,405"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="370,314,528,372,526,377,368,319"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="130,379,180,405"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="313,319,194,374,191,376,189,371,191,370,311,314"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="963,143,602,374,599,370,960,139"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1086,555,1163,581"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1038,138,1143,163,1263,199,1316,221,1360,246,1390,273,1399,287,1402,302,1402,393,1401,452,1393,477,1374,502,1353,520,1329,535,1277,555,1225,566,1177,570,1177,565,1224,560,1276,550,1327,530,1350,516,1371,498,1389,474,1396,451,1397,393,1397,303,1394,289,1386,276,1357,250,1314,226,1261,204,1142,168,1037,143"/>
+<area shape="rect" id="Node000014" href="$command_8h.html" title="Defines the bs::command interface and built&#45;in shell commands." alt="" coords="1017,203,1189,229"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="997,139,1077,193,1074,198,994,143"/>
+<area shape="rect" id="Node000016" href="$shell__session_8h.html" title="Defines the class bs::shell_session." alt="" coords="961,284,1122,324"/>
+<area shape="poly" id="edge47_Node000012_Node000016" title=" " alt="" coords="983,140,992,183,1007,235,1025,271,1020,273,1002,237,986,184,978,141"/>
+<area shape="rect" id="Node000027" href="$shell__hash_8h.html" title="Defines the bs::shell_hash functor implementing a 64&#45;bit FNV&#45;1a hash." alt="" coords="1588,460,1751,500"/>
+<area shape="poly" id="edge52_Node000012_Node000027" title=" " alt="" coords="1049,131,1219,150,1319,168,1418,193,1482,210,1538,221,1637,243,1681,259,1722,284,1761,320,1799,371,1806,392,1799,413,1777,438,1750,456,1747,452,1774,434,1794,411,1801,392,1794,373,1757,324,1719,288,1679,264,1636,248,1537,227,1480,215,1417,199,1318,174,1218,156,1048,136"/>
+<area shape="rect" id="Node000032" href="$shell__parser__exception_8h.html" title="Defines class shell_exception." alt="" coords="505,196,666,236"/>
+<area shape="poly" id="edge48_Node000012_Node000032" title=" " alt="" coords="927,143,680,197,679,192,926,138"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1147,291,1200,317"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1115,227,1157,279,1153,282,1111,231"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="1097,230,1066,274,1061,271,1093,227"/>
+<area shape="poly" id="edge20_Node000016_Node000013" title=" " alt="" coords="993,326,962,346,939,373,932,392,939,411,950,424,961,431,988,438,1017,442,1033,448,1049,458,1070,478,1088,500,1115,542,1110,545,1083,503,1066,481,1046,462,1030,453,1016,447,987,443,959,436,946,428,934,413,927,392,934,371,959,342,990,322"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="949,379,1036,405"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1033,326,1008,368,1004,366,1029,323"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1060,379,1124,405"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="1055,323,1081,366,1076,369,1051,326"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1148,379,1223,405"/>
+<area shape="poly" id="edge19_Node000016_Node000019" title=" " alt="" coords="1075,322,1156,370,1154,375,1072,326"/>
+<area shape="rect" id="Node000020" href="$shell__vtable_8h.html" title="Function table class for managing shell commands." alt="" coords="1248,379,1361,405"/>
+<area shape="poly" id="edge21_Node000016_Node000020" title=" " alt="" coords="1100,322,1257,373,1256,378,1099,327"/>
+<area shape="rect" id="Node000024" href="$shell__status_8h.html" title="Defines status codes for the shell." alt="" coords="606,548,768,588"/>
+<area shape="poly" id="edge46_Node000016_Node000024" title=" " alt="" coords="971,327,914,347,851,376,789,414,761,437,736,462,713,498,698,536,693,534,708,496,732,458,758,433,786,409,849,371,912,342,970,322"/>
+<area shape="rect" id="Node000029" href="$shell__arg_8h.html" title="Argument list class for managing shell commands." alt="" coords="874,460,1036,500"/>
+<area shape="poly" id="edge36_Node000016_Node000029" title=" " alt="" coords="962,325,924,344,908,357,895,373,889,392,894,412,906,431,922,449,918,452,902,434,889,414,884,392,890,371,904,354,921,340,960,320"/>
+<area shape="rect" id="Node000030" href="$shell__env_8h.html" title="Environment class for managing shell commands." alt="" coords="1437,372,1598,412"/>
+<area shape="poly" id="edge40_Node000016_Node000030" title=" " alt="" coords="1123,319,1136,321,1424,372,1423,378,1135,327,1122,324"/>
+<area shape="rect" id="Node000031" href="$shell__var_8h.html" title="Variable class for managing shell commands." alt="" coords="1622,372,1784,412"/>
+<area shape="poly" id="edge43_Node000016_Node000031" title=" " alt="" coords="1123,319,1136,321,1267,337,1371,345,1475,353,1609,369,1609,374,1475,358,1370,351,1266,343,1135,327,1122,325"/>
+<area shape="poly" id="edge23_Node000020_Node000009" title=" " alt="" coords="1320,403,1375,458,1437,542,1433,545,1370,462,1316,407"/>
+<area shape="poly" id="edge22_Node000020_Node000013" title=" " alt="" coords="1292,407,1228,462,1146,547,1142,543,1224,458,1288,403"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1237,467,1361,493"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="1306,405,1303,454,1298,453,1301,405"/>
+<area shape="poly" id="edge25_Node000020_Node000022" title=" " alt="" coords="1266,407,1236,415,1131,431,1049,438,967,445,862,463,847,466,845,461,861,457,966,440,1048,433,1130,426,1235,409,1265,402"/>
+<area shape="poly" id="edge33_Node000020_Node000027" title=" " alt="" coords="1354,402,1577,454,1576,460,1353,407"/>
+<area shape="poly" id="edge29_Node000022_Node000003" title=" " alt="" coords="759,495,553,556,551,551,758,490"/>
+<area shape="poly" id="edge28_Node000022_Node000009" title=" " alt="" coords="833,490,862,497,1018,524,1173,542,1406,562,1406,567,1172,548,1018,529,861,503,832,495"/>
+<area shape="poly" id="edge26_Node000022_Node000013" title=" " alt="" coords="837,490,863,497,1073,551,1072,557,861,503,835,495"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="792,555,878,581"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="805,492,827,541,822,544,800,494"/>
+<area shape="poly" id="edge30_Node000022_Node000024" title=" " alt="" coords="785,495,724,542,721,537,781,491"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="592,636,675,661"/>
+<area shape="poly" id="edge31_Node000024_Node000025" title=" " alt="" coords="676,590,652,626,647,623,672,587"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="699,636,779,661"/>
+<area shape="poly" id="edge32_Node000024_Node000026" title=" " alt="" coords="702,587,726,623,722,626,698,590"/>
+<area shape="poly" id="edge35_Node000027_Node000009" title=" " alt="" coords="1623,503,1493,553,1491,548,1621,498"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="1636,555,1703,581"/>
+<area shape="poly" id="edge34_Node000027_Node000028" title=" " alt="" coords="1672,500,1672,541,1667,541,1667,500"/>
+<area shape="poly" id="edge39_Node000029_Node000003" title=" " alt="" coords="875,500,862,503,594,551,553,559,552,554,593,545,861,497,874,495"/>
+<area shape="poly" id="edge38_Node000029_Node000009" title=" " alt="" coords="1036,494,1056,497,1407,557,1406,562,1055,503,1035,499"/>
+<area shape="poly" id="edge37_Node000029_Node000013" title=" " alt="" coords="994,498,1091,547,1089,552,991,502"/>
+<area shape="poly" id="edge41_Node000030_Node000009" title=" " alt="" coords="1513,413,1462,543,1457,541,1508,411"/>
+<area shape="poly" id="edge42_Node000030_Node000027" title=" " alt="" coords="1552,410,1626,451,1623,456,1550,414"/>
+<area shape="poly" id="edge44_Node000031_Node000009" title=" " alt="" coords="1663,415,1621,436,1578,462,1520,506,1473,548,1470,544,1517,502,1575,458,1619,432,1661,410"/>
+<area shape="poly" id="edge45_Node000031_Node000027" title=" " alt="" coords="1698,413,1685,448,1680,446,1693,411"/>
+<area shape="poly" id="edge49_Node000032_Node000003" title=" " alt="" coords="575,238,542,296,525,334,512,373,505,419,503,465,507,542,501,542,497,465,500,418,507,371,520,332,537,294,571,235"/>
+<area shape="poly" id="edge51_Node000032_Node000004" title=" " alt="" coords="532,239,385,289,383,284,531,234"/>
+<area shape="poly" id="edge50_Node000032_Node000024" title=" " alt="" coords="594,236,634,371,681,534,676,536,629,373,589,237"/>
+<area shape="rect" id="Node000034" title=" " alt="" coords="1860,203,1952,229"/>
+<area shape="poly" id="edge55_Node000033_Node000034" title=" " alt="" coords="1659,146,1841,193,1854,197,1853,202,1840,199,1658,151"/>
+</map>

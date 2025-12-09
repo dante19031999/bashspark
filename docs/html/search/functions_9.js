@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['main_0',['main',['../test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'test.cpp']]],
+  ['make_1',['make',['../classbs_1_1shell__node__operator.html#a13253c2deb2c594a24bb5beed6c0f0c9',1,'bs::shell_node_operator']]],
+  ['make_5fdefault_5fshell_2',['make_default_shell',['../classbs_1_1shell.html#af7bb333ac92bdd0b70fe3da4b22d2bc9',1,'bs::shell']]],
+  ['make_5ffunction_5fcall_3',['make_function_call',['../classbs_1_1shell__session.html#a2154df946cc874ec430df2efe8ba3e4f',1,'bs::shell_session']]],
+  ['make_5fpipe_5fleft_4',['make_pipe_left',['../classbs_1_1shell__session.html#a99e29b1d0e5ff047f913a1c808ff0422',1,'bs::shell_session']]],
+  ['make_5fpipe_5fright_5',['make_pipe_right',['../classbs_1_1shell__session.html#a97b51681bcc832ef71f09eb8dd3a8c36',1,'bs::shell_session']]],
+  ['make_5fsubsession_6',['make_subsession',['../classbs_1_1shell__session.html#a407e17add944fd1574ed4b71996d7cfd',1,'bs::shell_session']]],
+  ['make_5fuser_5fcode_7',['make_user_code',['../namespacebs.html#af8e77920855beebde1c56748df546902',1,'bs']]],
+  ['math_5ferror_8',['math_error',['../structbs_1_1math__error.html#a603a27bea775a2ab5378af51cc4b0720',1,'bs::math_error']]],
+  ['math_5fparser_9',['math_parser',['../structbs_1_1math__parser.html#a9072e169a5902b58ea28f7d7c406b571',1,'bs::math_parser']]],
+  ['msg_5ferror_5fcommand_5fnot_5ffound_10',['msg_error_command_not_found',['../classbs_1_1shell.html#a2c154ed71a46d125862fd03589d6d570',1,'bs::shell']]],
+  ['msg_5ferror_5ffunction_5fnot_5ffound_11',['msg_error_function_not_found',['../classbs_1_1command__fcall.html#aab39cc48e7971789de9585828c0b7e32',1,'bs::command_fcall']]],
+  ['msg_5ferror_5fint_5fbounds_12',['msg_error_int_bounds',['../classbs_1_1command__seq.html#a1faf492e15cbc0362d191e4df9321404',1,'bs::command_seq']]],
+  ['msg_5ferror_5fint_5fformat_13',['msg_error_int_format',['../classbs_1_1command__seq.html#afe29f3506d9d07ca56e1c30275f28981',1,'bs::command_seq']]],
+  ['msg_5ferror_5finvalid_5ffunction_5fname_14',['msg_error_invalid_function_name',['../classbs_1_1shell.html#a5ddcc227067122d46cd8aec12148da30',1,'bs::shell']]],
+  ['msg_5ferror_5flogics_15',['msg_error_logics',['../classbs_1_1command__seq.html#aef23efc10025fd0c70701a2458eaff9e',1,'bs::command_seq']]],
+  ['msg_5ferror_5fmath_16',['msg_error_math',['../classbs_1_1command__math.html#a531478fbdc6e09c1ca11232f6a518696',1,'bs::command_math']]],
+  ['msg_5ferror_5fmax_5fdepth_5freached_17',['msg_error_max_depth_reached',['../classbs_1_1command__eval.html#a08e832efea7dc24c0745fe3f9af4cf6c',1,'bs::command_eval']]],
+  ['msg_5ferror_5fparam_5fnumber_18',['msg_error_param_number',['../classbs_1_1command__getenv.html#a3f295dbe4bf63b39543cfe809d064c89',1,'bs::command_getenv::msg_error_param_number()'],['../classbs_1_1command__setenv.html#af139ea7809d102bc33aa5fb6311d55c5',1,'bs::command_setenv::msg_error_param_number()'],['../classbs_1_1command__fcall.html#aa29f48df9490b86cfadb106f6224bb97',1,'bs::command_fcall::msg_error_param_number()'],['../classbs_1_1command__seq.html#a9c34974f229df8f3f8ea7558e6e1399d',1,'bs::command_seq::msg_error_param_number()'],['../classbs_1_1command__getvar.html#a526285ad43d1bd20dfda88eda7467aca',1,'bs::command_getvar::msg_error_param_number()'],['../classbs_1_1command__setvar.html#af6b2ad293f3515233cff9aef811ea3a0',1,'bs::command_setvar::msg_error_param_number()']]],
+  ['msg_5ferror_5fsyntax_5ferror_19',['msg_error_syntax_error',['../classbs_1_1shell.html#a2a525b8616da9413eeb225f0a6e9a431',1,'bs::shell']]],
+  ['msg_5ferror_5ftest_20',['msg_error_test',['../classbs_1_1command__test.html#aea2f9cdf6bb98f8877e2247ce8da429f',1,'bs::command_test']]],
+  ['msg_5ferror_5fvariable_5fname_21',['msg_error_variable_name',['../classbs_1_1command__getenv.html#aca8aad9af2f5bd907ff467e5fe12a0b0',1,'bs::command_getenv::msg_error_variable_name()'],['../classbs_1_1command__setenv.html#aa10fcaf0acfee6b7979f64fd0fa06592',1,'bs::command_setenv::msg_error_variable_name()'],['../classbs_1_1command__getvar.html#ae12dffd3f9a0df1869f5c78f0de660d2',1,'bs::command_getvar::msg_error_variable_name()'],['../classbs_1_1command__setvar.html#a621e452be9e56278b1667f55437cdbd3',1,'bs::command_setvar::msg_error_variable_name()']]]
+];

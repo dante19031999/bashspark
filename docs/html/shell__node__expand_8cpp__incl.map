@@ -1,0 +1,113 @@
+<map id="/home/dante/Documents/BashSpark/src/BashSpark/shell/shell_node_expand.cpp" name="/home/dante/Documents/BashSpark/src/BashSpark/shell/shell_node_expand.cpp">
+<area shape="rect" id="Node000001" title="Implements class shell_node." alt="" coords="954,5,1167,60"/>
+<area shape="rect" id="Node000002" href="$shell__node_8h.html" title="Defines the shell node hierarchy used by the parser." alt="" coords="272,621,433,661"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="954,45,723,66,452,100,329,122,227,146,189,159,159,173,141,186,135,201,135,466,139,493,149,517,164,539,184,558,230,590,280,614,278,619,228,595,180,562,160,542,144,520,134,495,130,467,130,199,137,183,157,168,187,154,226,141,328,116,451,95,722,61,954,39"/>
+<area shape="rect" id="Node000010" href="$utf_8h.html" title="Provides simple tools for utf string manipulation." alt="" coords="1843,365,2003,390"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1168,47,1302,72,1447,105,1552,137,1654,179,1737,217,1814,267,1865,311,1906,352,1902,356,1862,315,1811,271,1735,222,1652,184,1550,142,1445,111,1301,77,1167,53"/>
+<area shape="rect" id="Node000021" href="$shell_8h.html" title="Defines the bs::shell interface and built&#45;in shell functionality." alt="" coords="991,277,1130,302"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="1063,60,1063,263,1058,263,1058,60"/>
+<area shape="rect" id="Node000035" href="$shell__tools_8h.html" title="Provides some simple tools used on command expansion." alt="" coords="1330,108,1434,133"/>
+<area shape="poly" id="edge57_Node000001_Node000035" title=" " alt="" coords="1160,57,1327,102,1326,107,1158,63"/>
+<area shape="rect" id="Node000040" href="$shell__def_8h.html" title="Defines and implements some hightly recurrent helper functions." alt="" coords="785,181,947,221"/>
+<area shape="poly" id="edge70_Node000001_Node000040" title=" " alt="" coords="1032,62,901,174,897,170,1028,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="195,717,273,742"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,664,263,711,260,706,325,659"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="309,717,396,742"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="355,662,355,703,350,703,350,662"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="878,717,937,742"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="434,657,445,659,681,695,864,720,863,725,681,701,444,664,433,662"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="1315,717,1377,742"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="434,657,445,659,627,677,877,696,1301,723,1301,728,876,701,627,683,444,664,433,662"/>
+<area shape="rect" id="Node000007" href="$shell__status_8h.html" title="Defines status codes for the shell." alt="" coords="5,709,167,749"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="295,664,158,708,156,703,293,659"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="45,797,127,823"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="89,750,89,783,83,783,83,750"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1109,797,1189,823"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="168,744,184,747,451,774,714,791,939,801,1095,805,1095,810,939,806,713,796,451,779,183,752,167,750"/>
+<area shape="poly" id="edge13_Node000010_Node000009" title=" " alt="" coords="1969,388,2020,409,2045,424,2068,443,2090,469,2104,492,2111,518,2113,552,2112,641,2122,646,2146,648,2171,651,2182,657,2160,669,2096,685,1784,752,1619,779,1455,796,1310,806,1203,810,1202,805,1310,801,1454,791,1618,774,1783,747,2095,680,2158,664,2176,657,2169,656,2146,654,2121,651,2108,644,2107,552,2105,519,2099,494,2086,472,2064,447,2042,429,2017,413,1967,393"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1865,453,1939,478"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1923,391,1911,439,1906,438,1918,390"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1963,453,2022,478"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1935,388,1977,440,1972,443,1931,392"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1705,717,1771,742"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="1962,388,2002,409,2021,425,2036,444,2061,479,2073,499,2082,523,2085,550,2078,582,2061,619,2029,663,2013,677,1988,688,1923,706,1850,719,1785,727,1784,721,1849,714,1922,701,1986,683,2010,672,2025,659,2056,616,2073,580,2079,550,2077,524,2068,502,2056,482,2032,447,2018,428,1999,413,1959,392"/>
+<area shape="rect" id="Node000014" href="$fakestream_8h.html" title="Generic input and output stream classes with character types." alt="" coords="1567,453,1784,478"/>
+<area shape="poly" id="edge14_Node000010_Node000014" title=" " alt="" coords="1891,393,1723,451,1721,446,1889,388"/>
+<area shape="poly" id="edge19_Node000014_Node000005" title=" " alt="" coords="1654,480,1462,576,1349,629,1264,664,1178,688,1092,705,951,726,950,721,1091,700,1177,682,1262,659,1347,624,1460,572,1652,476"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1557,541,1618,566"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1665,480,1611,533,1607,529,1662,476"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1643,541,1708,566"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="1678,478,1678,526,1673,526,1673,478"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1733,541,1799,566"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="1689,476,1745,529,1741,533,1686,480"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1824,541,1897,566"/>
+<area shape="poly" id="edge18_Node000014_Node000018" title=" " alt="" coords="1701,476,1824,532,1822,537,1699,481"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1333,541,1431,566"/>
+<area shape="poly" id="edge20_Node000014_Node000019" title=" " alt="" coords="1637,481,1435,539,1433,534,1635,476"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1921,541,1971,566"/>
+<area shape="poly" id="edge21_Node000014_Node000020" title=" " alt="" coords="1727,476,1814,498,1911,531,1914,532,1912,537,1909,536,1813,503,1726,481"/>
+<area shape="poly" id="edge23_Node000021_Node000003" title=" " alt="" coords="991,296,799,309,551,336,428,356,316,381,223,411,187,428,160,447,131,475,114,503,109,535,117,572,135,613,160,649,212,705,208,709,156,653,131,615,111,574,104,535,109,502,127,472,156,443,185,424,221,406,314,375,427,350,551,330,799,304,991,291"/>
+<area shape="poly" id="edge24_Node000021_Node000019" title=" " alt="" coords="1131,297,1204,317,1241,333,1274,355,1313,396,1342,443,1364,489,1377,526,1372,528,1359,491,1337,445,1308,399,1271,359,1238,338,1202,322,1130,302"/>
+<area shape="rect" id="Node000022" href="$command_8h.html" title="Defines the bs::command interface and built&#45;in shell commands." alt="" coords="463,365,635,390"/>
+<area shape="poly" id="edge25_Node000021_Node000022" title=" " alt="" coords="993,305,631,365,630,360,992,299"/>
+<area shape="rect" id="Node000024" href="$shell__session_8h.html" title="Defines the class bs::shell_session." alt="" coords="468,445,629,485"/>
+<area shape="poly" id="edge51_Node000021_Node000024" title=" " alt="" coords="1028,305,618,443,616,438,1026,300"/>
+<area shape="rect" id="Node000030" href="$shell__hash_8h.html" title="Defines the bs::shell_hash functor implementing a 64&#45;bit FNV&#45;1a hash." alt="" coords="995,621,1158,661"/>
+<area shape="poly" id="edge56_Node000021_Node000030" title=" " alt="" coords="1065,302,1074,344,1090,396,1111,435,1133,463,1153,491,1170,533,1175,554,1170,574,1153,598,1131,616,1127,612,1149,594,1165,572,1169,554,1165,534,1148,494,1128,466,1106,438,1085,398,1068,345,1060,303"/>
+<area shape="rect" id="Node000034" href="$shell__parser__exception_8h.html" title="Defines class shell_exception." alt="" coords="1099,357,1260,397"/>
+<area shape="poly" id="edge52_Node000021_Node000034" title=" " alt="" coords="1078,300,1144,347,1141,351,1075,304"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="170,453,223,478"/>
+<area shape="poly" id="edge26_Node000022_Node000023" title=" " alt="" coords="480,393,368,415,243,448,236,450,234,445,241,443,367,410,479,387"/>
+<area shape="poly" id="edge27_Node000022_Node000024" title=" " alt="" coords="551,390,551,431,546,431,546,390"/>
+<area shape="poly" id="edge31_Node000024_Node000003" title=" " alt="" coords="468,474,394,481,317,493,251,511,227,522,211,535,199,554,193,576,192,599,195,622,207,667,223,703,218,705,202,669,189,623,187,599,188,575,194,552,207,532,224,517,249,506,316,487,394,475,468,468"/>
+<area shape="poly" id="edge50_Node000024_Node000007" title=" " alt="" coords="468,476,391,484,309,497,236,514,208,524,188,535,152,571,126,614,107,658,96,697,91,695,102,657,121,612,148,568,184,531,206,519,235,509,308,492,390,479,467,471"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="359,541,445,566"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="518,488,435,536,432,531,515,483"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="470,541,534,566"/>
+<area shape="poly" id="edge29_Node000024_Node000026" title=" " alt="" coords="541,487,517,530,513,527,536,484"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="558,541,633,566"/>
+<area shape="poly" id="edge30_Node000024_Node000027" title=" " alt="" coords="561,484,585,527,580,530,557,487"/>
+<area shape="rect" id="Node000028" href="$shell__vtable_8h.html" title="Function table class for managing shell commands." alt="" coords="221,541,335,566"/>
+<area shape="poly" id="edge32_Node000024_Node000028" title=" " alt="" coords="490,488,328,539,326,534,488,483"/>
+<area shape="rect" id="Node000031" href="$shell__arg_8h.html" title="Argument list class for managing shell commands." alt="" coords="657,621,819,661"/>
+<area shape="poly" id="edge40_Node000024_Node000031" title=" " alt="" coords="582,483,646,531,685,570,717,608,713,612,681,574,643,535,578,488"/>
+<area shape="rect" id="Node000032" href="$shell__env_8h.html" title="Environment class for managing shell commands." alt="" coords="995,533,1156,573"/>
+<area shape="poly" id="edge44_Node000024_Node000032" title=" " alt="" coords="630,475,981,531,981,536,629,481"/>
+<area shape="rect" id="Node000033" href="$shell__var_8h.html" title="Variable class for managing shell commands." alt="" coords="809,533,971,573"/>
+<area shape="poly" id="edge47_Node000024_Node000033" title=" " alt="" coords="624,483,803,527,802,533,623,488"/>
+<area shape="poly" id="edge36_Node000028_Node000002" title=" " alt="" coords="290,564,329,609,325,613,286,568"/>
+<area shape="poly" id="edge33_Node000028_Node000003" title=" " alt="" coords="277,567,262,622,242,704,237,702,257,621,272,566"/>
+<area shape="poly" id="edge34_Node000028_Node000005" title=" " alt="" coords="318,563,347,571,416,582,472,587,527,595,594,619,610,629,621,639,631,649,646,659,703,682,762,700,865,720,864,725,761,705,701,687,643,664,628,653,617,643,607,633,592,624,526,601,472,592,416,588,345,576,317,569"/>
+<area shape="rect" id="Node000029" title=" " alt="" coords="457,629,581,654"/>
+<area shape="poly" id="edge35_Node000028_Node000029" title=" " alt="" coords="311,564,475,622,473,627,310,569"/>
+<area shape="poly" id="edge37_Node000028_Node000030" title=" " alt="" coords="315,563,346,571,618,599,982,630,981,635,617,604,346,576,314,569"/>
+<area shape="poly" id="edge39_Node000030_Node000005" title=" " alt="" coords="1041,664,943,713,941,708,1038,659"/>
+<area shape="poly" id="edge38_Node000030_Node000013" title=" " alt="" coords="1159,651,1691,719,1691,725,1158,656"/>
+<area shape="poly" id="edge41_Node000031_Node000003" title=" " alt="" coords="657,656,462,684,297,712,283,716,281,710,296,707,461,679,657,651"/>
+<area shape="poly" id="edge42_Node000031_Node000005" title=" " alt="" coords="776,659,874,708,871,713,774,664"/>
+<area shape="poly" id="edge43_Node000031_Node000006" title=" " alt="" coords="819,651,1301,719,1300,724,818,657"/>
+<area shape="poly" id="edge45_Node000032_Node000005" title=" " alt="" coords="1046,576,1015,597,985,623,950,666,923,706,919,703,946,662,981,619,1012,593,1043,571"/>
+<area shape="poly" id="edge46_Node000032_Node000030" title=" " alt="" coords="1078,574,1079,607,1073,607,1073,574"/>
+<area shape="poly" id="edge48_Node000033_Node000005" title=" " alt="" coords="895,573,907,702,902,703,889,574"/>
+<area shape="poly" id="edge49_Node000033_Node000030" title=" " alt="" coords="932,571,1025,613,1023,618,930,576"/>
+<area shape="poly" id="edge53_Node000034_Node000006" title=" " alt="" coords="1191,396,1337,703,1332,705,1186,399"/>
+<area shape="poly" id="edge54_Node000034_Node000007" title=" " alt="" coords="1098,383,878,392,739,402,594,416,452,436,324,462,218,495,177,514,145,535,129,552,116,570,99,613,91,657,88,695,83,695,85,656,94,612,112,568,125,548,142,531,174,510,216,490,323,457,452,431,593,411,739,397,878,387,1098,378"/>
+<area shape="poly" id="edge55_Node000034_Node000014" title=" " alt="" coords="1261,390,1597,448,1596,453,1260,395"/>
+<area shape="poly" id="edge58_Node000035_Node000005" title=" " alt="" coords="1373,135,1353,161,1329,198,1309,241,1303,264,1301,288,1301,379,1296,469,1288,506,1276,540,1259,571,1237,601,1172,663,1146,682,1118,696,1058,716,1000,727,951,731,950,725,999,722,1057,711,1116,691,1143,677,1168,659,1233,597,1255,568,1271,537,1283,505,1290,468,1295,379,1295,288,1298,264,1304,239,1324,195,1348,158,1369,132"/>
+<area shape="poly" id="edge59_Node000035_Node000006" title=" " alt="" coords="1387,133,1406,215,1432,344,1450,476,1451,532,1446,574,1431,613,1410,650,1368,708,1363,704,1405,647,1426,611,1441,573,1446,532,1444,477,1426,344,1401,217,1382,134"/>
+<area shape="poly" id="edge60_Node000035_Node000010" title=" " alt="" coords="1435,130,1512,150,1595,179,1685,222,1770,271,1897,354,1894,359,1767,276,1682,227,1593,184,1510,155,1434,135"/>
+<area shape="rect" id="Node000036" href="$shell__parser_8h.html" title="Defines class bs::shell_parser." alt="" coords="1420,181,1581,221"/>
+<area shape="poly" id="edge61_Node000035_Node000036" title=" " alt="" coords="1401,131,1462,171,1459,176,1398,136"/>
+<area shape="poly" id="edge66_Node000036_Node000002" title=" " alt="" coords="1486,224,1450,261,1401,308,1340,357,1274,400,1167,433,961,491,645,576,447,622,446,617,644,571,959,486,1165,428,1272,395,1337,353,1397,304,1447,257,1482,220"/>
+<area shape="poly" id="edge69_Node000036_Node000014" title=" " alt="" coords="1501,222,1498,257,1500,303,1510,352,1519,375,1532,396,1548,413,1567,426,1609,446,1607,451,1564,431,1544,417,1528,399,1515,377,1505,353,1495,304,1493,257,1495,221"/>
+<area shape="poly" id="edge65_Node000036_Node000021" title=" " alt="" coords="1420,221,1133,277,1132,271,1419,216"/>
+<area shape="rect" id="Node000037" href="$shell__tokenizer_8h.html" title="Defines class bs::shell_tokenizer." alt="" coords="1657,357,1819,397"/>
+<area shape="poly" id="edge62_Node000036_Node000037" title=" " alt="" coords="1582,206,1617,214,1652,226,1686,243,1715,268,1727,285,1735,305,1741,343,1736,344,1729,306,1722,287,1711,271,1683,248,1650,231,1615,219,1581,211"/>
+<area shape="rect" id="Node000038" href="$shell__keyword_8h.html" title="Defines enum bs::shell_keyword." alt="" coords="1539,269,1700,309"/>
+<area shape="poly" id="edge67_Node000036_Node000038" title=" " alt="" coords="1529,219,1583,259,1580,263,1525,224"/>
+<area shape="poly" id="edge63_Node000037_Node000006" title=" " alt="" coords="1756,396,1798,439,1854,483,1873,492,1891,497,1925,500,1956,507,1971,516,1986,532,1994,554,1986,575,1968,593,1943,609,1879,637,1799,662,1710,682,1530,711,1391,727,1391,721,1529,706,1709,677,1798,657,1877,632,1941,604,1964,588,1981,572,1989,554,1981,535,1968,520,1954,511,1924,505,1890,502,1871,497,1851,488,1794,443,1752,400"/>
+<area shape="poly" id="edge64_Node000037_Node000014" title=" " alt="" coords="1726,399,1694,443,1690,440,1722,396"/>
+<area shape="rect" id="Node000039" title=" " alt="" coords="1541,365,1633,390"/>
+<area shape="poly" id="edge68_Node000038_Node000039" title=" " alt="" coords="1615,311,1599,353,1594,351,1610,309"/>
+<area shape="poly" id="edge71_Node000040_Node000005" title=" " alt="" coords="849,223,826,251,801,288,782,330,774,376,774,467,779,521,799,572,893,704,889,707,794,575,774,522,769,467,769,376,777,329,797,285,822,248,845,220"/>
+</map>

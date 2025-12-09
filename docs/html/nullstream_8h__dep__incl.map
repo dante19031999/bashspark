@@ -1,0 +1,9 @@
+<map id="/home/dante/Documents/BashSpark/include/BashSpark/tools/nullstream.h" name="/home/dante/Documents/BashSpark/include/BashSpark/tools/nullstream.h">
+<area shape="rect" id="Node000001" title="Provides null stream implementations for basic input and output." alt="" coords="206,5,425,60"/>
+<area shape="rect" id="Node000002" href="$shell_8cpp.html" title="Implements the bs::shell interface and built&#45;in shell functionality." alt="" coords="5,115,196,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,69,154,118,152,113,250,64"/>
+<area shape="rect" id="Node000003" href="$shell__node__visitor__json_8cpp.html" title="Implements class bs::shell_node_visitor_json" alt="" coords="220,108,411,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="318,74,318,108,313,108,313,74"/>
+<area shape="rect" id="Node000004" href="$test__shell_8cpp.html" title="Implements a series of tests to check the overall compliance of the shell. Exhaustive testing would b..." alt="" coords="435,115,655,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,64,490,113,488,118,383,69"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="/home/dante/Documents/BashSpark/include/BashSpark/command/command_var.h" name="/home/dante/Documents/BashSpark/include/BashSpark/command/command_var.h">
+<area shape="rect" id="Node000001" title="Defines commands for local variable management." alt="" coords="117,5,335,60"/>
+<area shape="rect" id="Node000002" href="$command__var_8cpp.html" title="Implements commands for local variable management." alt="" coords="5,108,220,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,71,144,110,140,106,184,67"/>
+<area shape="rect" id="Node000003" href="$shell_8cpp.html" title="Implements the bs::shell interface and built&#45;in shell functionality." alt="" coords="244,108,435,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,67,312,106,308,110,264,71"/>
+</map>

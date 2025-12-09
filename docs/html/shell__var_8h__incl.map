@@ -1,0 +1,10 @@
+<map id="/home/dante/Documents/BashSpark/include/BashSpark/shell/shell_var.h" name="/home/dante/Documents/BashSpark/include/BashSpark/shell/shell_var.h">
+<area shape="rect" id="Node000001" title="Variable class for managing shell commands." alt="" coords="5,5,224,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="43,196,101,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,61,84,109,77,147,75,182,69,182,72,146,79,107,98,59"/>
+<area shape="rect" id="Node000003" href="$shell__hash_8h.html" title="Defines the bs::shell_hash functor implementing a 64&#45;bit FNV&#45;1a hash." alt="" coords="93,108,256,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,59,157,95,153,98,129,62"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="151,150,100,190,96,185,148,146"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="141,196,208,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="177,148,177,182,172,182,172,148"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="bs::command_setenv" name="bs::command_setenv">
+<area shape="rect" id="Node000001" title="Sets the value of an environment variable." alt="" coords="5,79,167,104"/>
+<area shape="rect" id="Node000002" href="$classbs_1_1command.html" title="Abstract base class for all shell commands." alt="" coords="31,5,141,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,44,89,79,83,79,83,44"/>
+</map>

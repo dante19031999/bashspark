@@ -1,0 +1,19 @@
+<map id="/home/dante/Documents/BashSpark/include/BashSpark/tools/utf.h" name="/home/dante/Documents/BashSpark/include/BashSpark/tools/utf.h">
+<area shape="rect" id="Node000001" title="Provides simple tools for utf string manipulation." alt="" coords="183,5,402,60"/>
+<area shape="rect" id="Node000002" href="$shell__node_8cpp.html" title="Implements class shell_node." alt="" coords="13,108,204,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,69,158,110,156,105,232,64"/>
+<area shape="rect" id="Node000003" href="$shell__node__evaluate_8cpp.html" title="Implements class shell_node." alt="" coords="5,211,228,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,74,251,119,217,164,190,191,161,212,157,208,186,186,213,161,247,116,272,71"/>
+<area shape="rect" id="Node000004" href="$shell__node__expand_8cpp.html" title="Implements class shell_node." alt="" coords="253,211,466,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,73,308,116,320,162,344,209,340,212,316,164,302,118,295,74"/>
+<area shape="rect" id="Node000005" href="$shell__tokenizer_8cpp.html" title="Implements class bs::shell_tokenizer." alt="" coords="545,108,736,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="397,61,551,105,549,111,395,66"/>
+<area shape="rect" id="Node000006" href="$shell__tools_8h.html" title="Provides some simple tools used on command expansion." alt="" coords="331,108,521,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="340,66,393,106,389,110,337,70"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="333,169,198,213,196,208,332,164"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="403,176,379,212,375,209,399,173"/>
+<area shape="rect" id="Node000007" href="$command_8cpp.html" title="Implements class bs::command." alt="" coords="491,211,681,265"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="480,168,545,208,543,213,478,172"/>
+<area shape="rect" id="Node000008" href="$shell__parser_8cpp.html" title="Implements class bs::shell_parser." alt="" coords="705,211,896,265"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="535,163,706,209,705,214,534,168"/>
+</map>

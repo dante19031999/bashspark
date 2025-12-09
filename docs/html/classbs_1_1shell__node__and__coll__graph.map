@@ -1,0 +1,9 @@
+<map id="bs::shell_node_and" name="bs::shell_node_and">
+<area shape="rect" id="Node000001" title="Logical AND operator node (executes right only if left succeeded)." alt="" coords="25,225,172,251"/>
+<area shape="rect" id="Node000002" href="$classbs_1_1shell__node__operator.html" title="Base class for binary operator nodes (pipe, and, or) with priority handling." alt="" coords="10,152,187,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,191,101,225,96,225,96,191"/>
+<area shape="rect" id="Node000003" href="$classbs_1_1shell__node__evaluable.html" title="Base interface for nodes that can be evaluated (executed)." alt="" coords="5,79,192,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,118,101,152,96,152,96,118"/>
+<area shape="rect" id="Node000004" href="$classbs_1_1shell__node.html" title="Base class for all parser nodes." alt="" coords="41,5,156,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="101,44,101,79,96,79,96,44"/>
+</map>

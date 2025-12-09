@@ -1,0 +1,7 @@
+<map id="bs::shell_node_session_extractor" name="bs::shell_node_session_extractor">
+<area shape="rect" id="Node000001" title="Base for nodes that extract values from the session (args/vars/etc.)." alt="" coords="19,152,190,192"/>
+<area shape="rect" id="Node000002" href="$classbs_1_1shell__node__expandable.html" title="Base interface for nodes that expand to tokens (strings)." alt="" coords="5,79,204,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,118,107,152,102,152,102,118"/>
+<area shape="rect" id="Node000003" href="$classbs_1_1shell__node.html" title="Base class for all parser nodes." alt="" coords="47,5,162,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,44,107,79,102,79,102,44"/>
+</map>
