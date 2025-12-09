@@ -136,35 +136,28 @@ namespace bs {
 
         // @section command Command Errors
 
-        /**
-         * @brief Indicates base error value for commands
-         *
-         * @warning Defining command error codes below this value results in undefined behaviour.
-         */
-        SHELL_CMD_ERROR = 42,
-
         // @section envvar Command getenv, getvar, setenv, setvar errors
 
         /// Indicates an error with the number of parameters for command getenv
-        SHELL_CMD_ERROR_GETENV_PARAM_NUMBER = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_GETENV_PARAM_NUMBER,
 
         /// Indicates that the variable name passed to getenv is not valid
         SHELL_CMD_ERROR_GETENV_VARIABLE_NAME_INVALID,
 
         /// Indicates an error with the number of parameters for command getenv
-        SHELL_CMD_ERROR_GETVAR_PARAM_NUMBER = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_GETVAR_PARAM_NUMBER,
 
         /// Indicates that the variable name passed to getenv is not valid
         SHELL_CMD_ERROR_GETVAR_VARIABLE_NAME_INVALID,
 
         /// Indicates an error with the number of parameters for command setenv
-        SHELL_CMD_ERROR_SETENV_PARAM_NUMBER = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_SETENV_PARAM_NUMBER,
 
         /// Indicates that the variable name passed to setenv is not valid
         SHELL_CMD_ERROR_SETENV_VARIABLE_NAME_INVALID,
 
         /// Indicates an error with the number of parameters for command setenv
-        SHELL_CMD_ERROR_SETVAR_PARAM_NUMBER = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_SETVAR_PARAM_NUMBER,
 
         /// Indicates that the variable name passed to setenv is not valid
         SHELL_CMD_ERROR_SETVAR_VARIABLE_NAME_INVALID,
@@ -172,7 +165,7 @@ namespace bs {
         // @section seq Command seq errors
 
         /// Indicates an error with the number of parameters for command seq
-        SHELL_CMD_ERROR_SEQ_PARAM_NUMBER = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_SEQ_PARAM_NUMBER,
 
         /// Indicates that the parameter seq received is not a number
         SHELL_CMD_ERROR_SEQ_INVALID_INT_FORMAT,
@@ -186,7 +179,7 @@ namespace bs {
         // @section test Command test errors
 
         /// Command test: error indicating that opened parenthesis have not been closed
-        SHELL_CMD_ERROR_TEST_UNCLOSED_PARENTHESIS = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_TEST_UNCLOSED_PARENTHESIS,
 
         /// Command test: error indicating that the expression is malformed
         SHELL_CMD_ERROR_TEST_MALFORMED_EXPRESSION,
@@ -200,7 +193,7 @@ namespace bs {
         // @section math Command math errors
 
         /// Command math: error indicating that the input is not an integer.
-        SHELL_CMD_ERROR_MATH_NOT_AN_INTEGER = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_MATH_NOT_AN_INTEGER,
 
         /// Command math: error indicating that the result of a mathematical operation has exceeded the maximum limit.
         SHELL_CMD_ERROR_MATH_OVERFLOW,
@@ -232,10 +225,20 @@ namespace bs {
         // @section fcall Command fcall errors
 
         /// Indicates an error with the number of parameters for command fcall
-        SHELL_CMD_ERROR_FCALL_PARAM_NUMBER = SHELL_CMD_ERROR + 1,
+        SHELL_CMD_ERROR_FCALL_PARAM_NUMBER,
 
         /// Command fcall: Indicates the function was not found.
         SHELL_CMD_ERROR_FCALL_FUNCTION_NOT_FOUND,
+
+        // @section userdef User defined
+
+        /**
+         * @brief Indicates base error value for commands
+         *
+         * @warning Defining command error codes below this value results in undefined behaviour.
+         */
+        SHELL_CMD_ERROR = 108,
+
     };
 
     /**
