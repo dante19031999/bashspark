@@ -80,6 +80,13 @@ namespace bs {
         static constexpr auto EOF_VALUE = traits_type::eof();
 
         /**
+         * @brief Constructs an empty input stream.
+         */
+        ALWAYS_INLINE basic_ifakestream()
+            : m_nPos(0), m_pData(nullptr), m_nSize(0) {
+        }
+
+        /**
          * @brief Constructs an input stream with data and size.
          * @param pData Pointer to the data.
          * @param nSize Size of the data.
