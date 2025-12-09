@@ -234,7 +234,7 @@ namespace bs {
         /// Indicates an error with the number of parameters for command fcall
         SHELL_CMD_ERROR_FCALL_PARAM_NUMBER = SHELL_CMD_ERROR + 1,
 
-        /// Command fcall: Indicates the funcion was not found.
+        /// Command fcall: Indicates the function was not found.
         SHELL_CMD_ERROR_FCALL_FUNCTION_NOT_FOUND,
     };
 
