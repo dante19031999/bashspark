@@ -117,14 +117,12 @@ namespace bs {
             shell_session &oSession,
             ifakestream &oIstream
         ) {
-            const auto pMainNode = shell_parser::parse(oIstream);
-            //shell_node_visitor_json oVisitor;
-            //auto sJson = oVisitor.visit_node(oSession, pMainNode.get());
-            //std::ofstream oFile("/home/$USER/Documents/BashSpark/node.json");
-            //oFile << oVisitor.visit_node(oSession, pMainNode.get()).dump(4) << std::endl;
-            return pMainNode->evaluate(oSession);
             try {
                 const auto pMainNode = shell_parser::parse(oIstream);
+                //shell_node_visitor_json oVisitor;
+                //auto sJson = oVisitor.visit_node(oSession, pMainNode.get());
+                //std::ofstream oFile("/home/$USER/Documents/BashSpark/node.json");
+                //oFile << oVisitor.visit_node(oSession, pMainNode.get()).dump(4) << std::endl;
                 return pMainNode->evaluate(oSession);
             } catch (const shell_parser_exception &oException) {
                 oSession.get_shell()->msg_error_syntax_error(
