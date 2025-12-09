@@ -43,7 +43,7 @@ namespace bs {
         const std::string &sVariable = vArgs[0];
         if (!is_var(sVariable)) {
             msg_error_variable_name(oSession.err(), sVariable);
-            return shell_status::SHELL_CMD_ERROR_GETENV_VARIABLE_NAME_INVALID;
+            return shell_status::SHELL_CMD_ERROR_GETVAR_VARIABLE_NAME_INVALID;
         }
 
         oSession.out() << oSession.get_var(sVariable);
@@ -71,7 +71,7 @@ namespace bs {
         const std::string &sVariable = vArgs[0];
         if (!is_var(sVariable)) {
             msg_error_variable_name(oSession.err(), sVariable);
-            return shell_status::SHELL_CMD_ERROR_GETENV_VARIABLE_NAME_INVALID;
+            return shell_status::SHELL_CMD_ERROR_SETVAR_VARIABLE_NAME_INVALID;
         }
 
         oSession.set_var(sVariable, vArgs[1]);

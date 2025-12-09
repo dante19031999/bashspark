@@ -71,7 +71,7 @@ namespace bs {
         const std::string &sVariable = vArgs[0];
         if (!is_var(sVariable)) {
             msg_error_variable_name(oSession.err(), sVariable);
-            return shell_status::SHELL_CMD_ERROR_GETENV_VARIABLE_NAME_INVALID;
+            return shell_status::SHELL_CMD_ERROR_SETENV_VARIABLE_NAME_INVALID;
         }
 
         oSession.env().set_env(sVariable, vArgs[1]);
