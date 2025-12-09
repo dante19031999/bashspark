@@ -1,5 +1,7 @@
 # BashSpark
 
+[![Documentation](https://img.shields.io/badge/docs-website-blue?style=for-the-badge)](https://dante19031999.github.io/bashspark/)
+
 BashSpark is a powerful C++ library that provides a command-line tool to execute custom commands seamlessly.
 
 Key Features
