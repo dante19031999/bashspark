@@ -77,9 +77,9 @@ namespace bs::debug {
         void test_echo_envvar() const;
 
         /**
-         * @brief Tests sequential command execution.
+         * @brief Tests seq command execution.
          *
-         * Ensures that commands can be executed in a sequence as expected.
+         * Ensures that command seq is excuted as spected.
          */
         void test_seq() const;
 
